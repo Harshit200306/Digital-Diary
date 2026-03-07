@@ -51,13 +51,13 @@ if(!container) return;
 
 let posts = JSON.parse(localStorage.getItem("posts")) || [];
 
-// purani heading hata do agar already ho
+
 let oldHeading = document.querySelector(".diary-heading");
 if(oldHeading) oldHeading.remove();
 
 container.innerHTML = "";
 
-// agar koi post nahi
+
 if(posts.length === 0){
 container.innerHTML = `
 <div class="empty">
@@ -71,14 +71,14 @@ container.innerHTML = `
 return;
 }
 
-// heading container ke upar lagao
+
 let heading = document.createElement("h1");
 heading.innerText = "📓 My Diaries";
 heading.classList.add("diary-heading");
 
 container.parentNode.insertBefore(heading, container);
 
-// cards container ke andar
+
 posts.forEach((post,index)=>{
 
 let div = document.createElement("div");
@@ -118,5 +118,6 @@ function autoGrow(element){
 element.style.height = "auto";
 
 element.style.height = element.scrollHeight + "px";
+
 
 }
