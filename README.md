@@ -16,11 +16,13 @@ A simple and secure web-based Digital Diary Application that allows users to wri
 ---
 
 🎯 Purpose of Project
+
 This project was created to replace traditional paper diaries with a modern digital solution that makes writing and managing personal records easier, faster, and more convenient.
 
 ---
 
 ✨Key Highlights
+
 Helps maintain daily journaling habits
 Easy note management system
 Better privacy than physical diaries
