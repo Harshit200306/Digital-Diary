@@ -33,6 +33,7 @@ This project was created to replace traditional paper diaries with a modern digi
 
 - Useful for students and personal users
 
+---
 
 📌 Future Improvements
 
