@@ -23,15 +23,15 @@ This project was created to replace traditional paper diaries with a modern digi
 
 ✨Key Highlights
 
-Helps maintain daily journaling habits
+- Helps maintain daily journaling habits
 
-Easy note management system
+- Easy note management system
 
-Better privacy than physical diaries
+- Better privacy than physical diaries
 
-Saves time with instant access to entries
+- Saves time with instant access to entries
 
-Useful for students and personal users
+- Useful for students and personal users
 
 
 📌 Future Improvements
