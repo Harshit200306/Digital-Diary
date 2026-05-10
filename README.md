@@ -1,3 +1,5 @@
+# Digital Diary
+
 📔 Digital Diary
 
 A simple and secure web-based Digital Diary Application that allows users to write, edit, save, and manage personal notes online with an easy-to-use interface.
